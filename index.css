@@ -1,0 +1,30 @@
+*{padding:0;
+margin:0;}
+.divbody{
+    width: 60%;
+	display:grid;
+    margin: 20px auto;
+    border: 1px solid #d2d2d2;
+    box-shadow: 1px 1px 1px gainsboro;
+    border-radius: 20px;
+	padding: 20px;}
+.gbody{
+}
+input{
+	padding: 10px;
+    border: 1px solid #cacaca;
+    border-radius: 5px;
+	margin: 5px;
+}
+.gleft{
+	width:70%;
+	display:inline-block;
+	float:left;
+}
+.gright{
+	width:30%;
+	display:inline-block;
+	float:right;
+}
+.gright img{width:200px;}
+.next{float:right;}
